@@ -6,8 +6,7 @@ I would try to solve all the 250 Leetcode problems suggested by [this blog](http
 
 1. [Two Sum](https://github.com/ymao94/Leetcode/tree/main/Two%20Sum)
 2. [Longest Substring Without Repeating Characters](https://github.com/ymao94/Leetcode/tree/main/Longest%20Substring%20Without%20Repeating%20Characters)
-
-4 Median of Two Sorted Arrays
+3. [Median of Two Sorted Arrays](https://github.com/ymao94/Leetcode/tree/main/Median%20of%20Two%20Sorted%20Arrays)
 
 5 	Longest Palindromic Substring 	视频讲解 	
 7 	Reverse Integer 	视频讲解 	
