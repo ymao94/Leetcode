@@ -7,6 +7,7 @@ I would try to solve all the 250 Leetcode problems suggested by [this blog](http
 1. [Two Sum](https://github.com/ymao94/Leetcode/tree/main/Two%20Sum)
 2. [Longest Substring Without Repeating Characters](https://github.com/ymao94/Leetcode/tree/main/Longest%20Substring%20Without%20Repeating%20Characters)
 3. [Median of Two Sorted Arrays](https://github.com/ymao94/Leetcode/tree/main/Median%20of%20Two%20Sorted%20Arrays)
+66. [Plus One](https://github.com/ymao94/Leetcode/tree/main/Plus%20One)
 
 5 	Longest Palindromic Substring 	视频讲解 	
 7 	Reverse Integer 	视频讲解 	
@@ -27,22 +28,8 @@ I would try to solve all the 250 Leetcode problems suggested by [this blog](http
 29 	Divide Two Integers 	视频讲解 	
 31 	Next Permutation 	视频讲解 	
 32 	Longest Valid Parentheses 	视频讲解 	
-33 	Search in Rotated Sorted Array 	视频讲解 	
-34 	Find First and Last Position of Element in Sorted Array 	视频讲解 	
-35 	Search Insert Position 	视频讲解 	
-36 	Valid Sudoku 	视频讲解 	
-37 	Sudoku Solver 	视频讲解 	
-38 	Count and Say 	视频讲解 	
-39 	Combination Sum 	视频讲解 	
-40 	Combination Sum II 	视频讲解 	
-41 	First Missing Positive 	视频讲解 	
-42 	Trapping Rain Water 	视频讲解 	
-43 	Multiply Strings 	视频讲解 	
-44 	Wildcard Matching 	视频讲解 	
-45 	Jump Game II 	视频讲解 	
-46 	Permutations 	视频讲解 	
-47 	Permutations II 	视频讲解 	
-48 	Rotate Image 	视频讲解 	
+33 	Search in Rotated So 	
+
 49 	Group Anagrams 	视频讲解 	
 50 	Pow(x, n) 	视频讲解 	
 51 	N-Queens 	视频讲解 	
@@ -57,7 +44,7 @@ I would try to solve all the 250 Leetcode problems suggested by [this blog](http
 62 	Unique Paths 	视频讲解 	
 64 	Minimum Path Sum 	视频讲解 	
 65 	Valid Number 	视频讲解 	
-66 	Plus One 	视频讲解 	
+	
 67 	Add Binary 	视频讲解 	
 68 	Text Justification 	视频讲解 	
 69 	Sqrt(x) 	视频讲解 	
