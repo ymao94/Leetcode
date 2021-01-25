@@ -9,7 +9,7 @@ I would try to solve all the 250 Leetcode problems suggested by [this blog](http
 3. [Median of Two Sorted Arrays](https://github.com/ymao94/Leetcode/tree/main/Median%20of%20Two%20Sorted%20Arrays)
 66. [Plus One](https://github.com/ymao94/Leetcode/tree/main/Plus%20One)
 
-## LinkedList]
+## LinkedList
 21. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 83. [Remove Duplicates from Sorted List](https://github.com/ymao94/Leetcode/tree/main/Remove%20Duplicates%20from%20Sorted%20List)
 141. [Linked List Cycle](https://github.com/ymao94/Leetcode/tree/main/Linked%20List%20Cycle)
