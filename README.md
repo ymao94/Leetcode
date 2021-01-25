@@ -11,12 +11,12 @@ I would try to solve all the 250 Leetcode problems suggested by [this blog](http
 
 ## LinkedList]
 21. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-83. [Remove Duplicates from Sorted List](https://github.com/ymao94/Leetcode/tree/main/Remove Duplicates from Sorted List)
-141. [Linked List Cycle](https://github.com/ymao94/Leetcode/tree/main/Linked List Cycle)
-160. [Intersection of Two Linked Lists](https://github.com/ymao94/Leetcode/tree/main/Intersection of Two Linked Lists)
-206. [Reverse Linked List](https://github.com/ymao94/Leetcode/tree/main/Reverse Linked List)
-237. [Delete Node in a Linked List](https://github.com/ymao94/Leetcode/tree/main/Delete Node in a Linked List)
-876. [Middle of the Linked List](https://github.com/ymao94/Leetcode/tree/main/Middle of the Linked List)
+83. [Remove Duplicates from Sorted List](https://github.com/ymao94/Leetcode/tree/main/Remove%20Duplicates%20from%20Sorted%20List)
+141. [Linked List Cycle](https://github.com/ymao94/Leetcode/tree/main/Linked%20List%20Cycle)
+160. [Intersection of Two Linked Lists](https://github.com/ymao94/Leetcode/tree/main/Intersection%20of%20Two%20Linked%20Lists)
+206. [Reverse Linked List](https://github.com/ymao94/Leetcode/tree/main/Reversinked%20List)
+237. [Delete Node in a Linked List](https://github.com/ymao94/Leetcode/tree/main/Delete%20Node%20in%20a%20Linked%20List)
+876. [Middle of the Linked List](https://github.com/ymao94/Leetcode/tree/main/Middle%20of%20the%20Linked%20List)
 1290. [Convert Binary Numbers in a Linked List to Integer](https://github.com/ymao94/Leetcode/tree/main/Convert%20Binary%20Numbers%20in%20a%20Linked%20List%20to%20Integer)
 
 5 	Longest Palindromic Substring 	视频讲解 	
