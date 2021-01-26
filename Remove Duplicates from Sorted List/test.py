@@ -45,6 +45,35 @@ class Solution:
                  print(appeared)
         return pointer
 
+    def isPalindrome(self, head):
+        slow = fast = rev = head
+       # rev.next = None
+        print(fast.next)
+        print(rev.next)
+        print(fast.next.next)
+        while fast and fast.next:
+            rev  = slow.next
+            print(rev.val)
+           # rev.next = slow
+            print(rev.next.val)
+            slow = slow.next
+            print(slow.val)
+        #print(fast.next.next)
+            print(fast)
+            print(fast.next.next.val)
+            fast = fast.next.next
+            print(fast.val)
+            break
+           # print(rev.val,slow.val,fast.val)
+        if fast:
+            slow = slow.next
+        while slow:
+            if slow.val != rev.next.val:
+                return False
+                break
+            slow = slow.next
+            rev = rev.next
+        return True
 
 my_list = My_List(ListNode('start'))
 dd = {} # use this dict to keep reference to each element
@@ -53,14 +82,14 @@ for i in range(5):
     my_list.add(dd[i])
 
 
-dd[0].val = 2
-dd[1].val = 4
-dd[3].next  = None
+dd[0].val = 1
+dd[1].val = 2
+dd[1].next  = None
 dd[2].val = 2
-dd[3].val = 4
+dd[3].val = 1
 dd[4].val = 4
 #nond.val = 3
 #nond.next = nond.next.next
-Solution().deleteDuplicates(dd[0])
-my_list.print()
+print(Solution().isPalindrome(dd[0]))
+#my_list.print()
 
