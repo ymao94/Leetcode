@@ -9,6 +9,5 @@ class Solution:
             x = -x
         if x >= 2**31-1 or x <= -2**31:
             return 0
-        # I don't know why, but if you put the if clause at the beginning, it could not work
         else:
             return x
